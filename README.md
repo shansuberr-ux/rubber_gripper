@@ -33,11 +33,8 @@ The rubber provides passive compliance — it conforms to irregular or slightly 
 
 | Retracted (insertion) position | Expanded (locked) position |
 |---|---|
-| ![Retracted](images/Capture.PNG) | ![Expanded](images/GRIPPER%20ASSY-ANIM%206.PNG) |
+| ![Normal](https://github.com/shansuberr-ux/rubber_gripper/blob/main/PIC2.PNG) | ![Locked](https://github.com/shansuberr-ux/rubber_gripper/blob/main/Screenshot%202026-05-02%20235234.png) |
 
-| Lever actuation — side view |
-|---|
-| ![Lever](images/PIC2.PNG) |
 
 > 🎬 Full actuation animation included in this repository (`GRIPPER ASSY-ANIM 2.mp4`)
 
