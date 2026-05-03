@@ -20,7 +20,7 @@ A cam-lever expanding anchor gripper designed to insert into holes and lock in p
 ## How It Works
 
 1. **Insert** — the pointed rubber body is inserted tip-first into a hole
-2. **Actuate** — the lever arm is pulled, driving the conical metal shaft downward through the rubber body
+2. **Actuate** — the lever arm is pushed down, driving the conical metal shaft upward through the rubber body
 3. **Expand** — the conical shaft forces the rubber body to expand radially outward, pressing against the hole walls
 4. **Lock** — friction and mechanical interference between the expanded rubber and the hole wall resist pull-out forces
 5. **Release** — reversing the lever retracts the shaft, allowing the rubber to contract and the gripper to be removed
